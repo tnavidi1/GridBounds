@@ -1,6 +1,6 @@
 # GridBounds
 
-The code in this repository was used to simulate the experiments performed in the paper submitted by Thomas Navidi and Chloe Leblanc in 2020.  
+The code in this repository was written by Thomas Navidi and Chloe Leblanc and used to simulate the experiments performed in the paper submitted by Thomas Navidi and Chloe Leblanc in 2020.  
 
 Dependencies:  
 Package         Version  
