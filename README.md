@@ -3,8 +3,7 @@
 The code in this repository was used to simulate the experiments performed in the paper submitted by Thomas Navidi and Chloe Leblanc in 2020.
 
 Dependencies:
-Package         Version    
---------------- -----------
+Package         Version
 cvxpy           1.0.24     
 matplotlib      3.1.1      
 numpy           1.16.4     
